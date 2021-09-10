@@ -2,3 +2,5 @@
 
 
 # Estudo HTML e CSS
+
+Página web desenvolvida utilizando recursos HTML e CSS através de curso ministrado pela ALURA.
